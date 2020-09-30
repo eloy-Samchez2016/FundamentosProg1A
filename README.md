@@ -1,7 +1,7 @@
 # Fundamentos de Programación 1A
 
 _Repositorio para la materia de Fundamentos de Programación de la carrera de Ingeniería 
-en Sistemas Computacionales del Instituto Tecnológico Superior de Teposcolula _
+en Sistemas Computacionales del Instituto Tecnológico Superior de Teposcolula_
 
 ## Comenzando 🚀
 
